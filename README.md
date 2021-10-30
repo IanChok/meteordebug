@@ -4,7 +4,7 @@
       - Simply `git pull` this repo
       - Run `meteor run`
       - Open `localhost:3000` in browser and look at the console logs.  
-      - In _imports/ui/Component, if you rename the `index.css` file to something else, such as `indexx.css` the app then no longer crashes
+      - In _imports/ui/Component_, if you rename the `index.css` file to something else, such as `indexx.css` the app then no longer crashes
 
 
 Meteor version: 2.4 </br>
